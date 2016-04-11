@@ -1,3 +1,9 @@
+/*
+    links: {
+       https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Details_of_the_Object_Model,
+       http://stackoverflow.com/questions/4508313/advantages-of-using-prototype-vs-defining-methods-straight-in-the-constructor
+    }
+*/
 Function.prototype.method = function (funcName, func) {
   this.prototype[funcName] = func
 }
