@@ -47,11 +47,11 @@ Class.prototype.calc = function () {
 // Test the calc method:
 
 console.log(ins1.calc(1, 1, 1), ins2.calc(1, 1, 1));
-
 /*
 Exception: ReferenceError: ins1 is not defined
 @Scratchpad/1:1:1
-*/// Error, fn is called before the function is assigned!
+*/
+// Error, fn is called before the function is assigned!
 var fn = function () {
   console.log('test!');
 }
@@ -77,3 +77,10 @@ false == undefined
 false == null
 null == undefined
 ' \t\r\n' == 0
+console.log('' == null)
+console.log(obj.y === undefined)
+console.log('x in obj')
+console.log('y' in obj)
+for(p in obj) {
+  console.log(obj[p])
+}
