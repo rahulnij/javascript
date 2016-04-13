@@ -1,0 +1,12 @@
+-- All things in javascript
+	https://gist.github.com/aaronshaf/5663660
+-- prototypal inheritance or class
+-- object hardening or freeze partial or full properties
+-- static members
+-- private and public memebers
+-- events
+-- objects
+-- strict mode
+-- w3c vs ECMA script(ES)
+	-> w3c
+		-> https://www.w3.org/standards/techs/dom#w3c_all
