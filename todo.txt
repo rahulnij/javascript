@@ -1,12 +1,23 @@
 -- All things in javascript
 	https://gist.github.com/aaronshaf/5663660
+
 -- prototypal inheritance or class
+
+--* __proto__ chain can i check how i check what classes a object inherited
+	-> Property lookup in JavaScript looks within an object's own properties and, if the property name is not found, it looks within the special object property __proto__. This continues recursively; the process is called "lookup in the prototype chain".
+
 -- object hardening or freeze partial or full properties
+
 -- static members
+
 -- private and public memebers
+
 -- events
+
 -- objects
+
 -- strict mode
+
 -- w3c vs ECMA script(ES)
 	-> w3c
 		-> https://www.w3.org/standards/techs/dom#w3c_all
