@@ -21,3 +21,46 @@
 -- w3c vs ECMA script(ES)
 	-> w3c
 		-> https://www.w3.org/standards/techs/dom#w3c_all
+
+-- iterators
+	-> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
+	-> Symbol.iterator
+		-> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator
+--* Parallism 
+	-> web worker
+		-> https://www.youtube.com/watch?v=mAMEwCt3U0c
+		-> https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+
+
+------------------------
+Round 1(Telephonic)
+
+1. Find if a string is substring of other string.
+2. Write a code to multiply two matrices of dimension M*N and N*K.
+3. Write a Sql to perform Matrix Multiplication.Two tables has three columns row,col and value.
+
+Round 2(F2F)
+
+1.What is prototype in javascript?
+2.How do we write classes in javascript?
+3.There is a ladder of N steps.We can either take 1 step or 2 steps.In how many different ways one can climb the ladder?
+4.Print a square matrix in spiral order.
+5.Given a table with 3 columns StudentName,Subject and Marks.Write a sql to retrieve second highest Marks Obtained for each student.
+
+Round 3 (F2F)
+
+1.Given a Website with header,footer,side ads(Google ads,Internal ads).How will you extract only useful data from the page.
+2.Difference between .live() and .delegate() in jquery.
+3.What is chaining in jquery?
+4.What is callback function?
+5.What is .bind() function in jquery?
+6.Find the angle between hour handle and minute handle in a clock.
+7.Is it possible to create slideshow without using javascript.
+
+Round 4 (F2F)
+
+1.Questions about my current project and academic project.
+2.Given two points A and B with distance between them lets say D.there are N men who want to go from point A to point B.All men walk with same speed.They also have
+one scooter with them which has speed greater than their walking speed.How can they all reach from A to B in minimun finishing time.finishing time is the time when last
+person reached point B.
+
